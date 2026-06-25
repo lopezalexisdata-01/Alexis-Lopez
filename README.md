@@ -1,34 +1,86 @@
+<h1 align="center">🚀 Alexis Lopez</h1>
 
-# Hi, I'm Alexis Lopez 👋
+<h3 align="center">📊 Data Analyst | Business Intelligence Analyst</h3>
 
-## Data Analyst | Business Intelligence
+<p align="center">
+Transforming data into actionable insights for smarter business decisions.
+</p>
 
-I am a Data Analyst focused on transforming data into actionable insights for business decision-making.
+---
 
-### Skills
-- SQL
-- Power BI
-- Excel
-- Python
-- Data Cleaning
-- Data Visualization
-- Business Intelligence
-- KPI Development
-- Dashboard Design
+## 👨‍💻 About Me
 
-### Projects
-📊 Sales Analysis Dashboard
-📈 Business Performance Reporting
-📉 KPI Monitoring and Tracking
-🗄 SQL Data Analysis Projects
+📊 Passionate about Data Analytics and Business Intelligence
 
-### Currently
-🔍 Open to opportunities as:
+💡 Transforming raw data into meaningful insights
+
+📈 Focused on KPI Tracking, Reporting and Dashboard Development
+
+🚀 Continuously learning and improving analytical skills
+
+🌎 Based in Mexico and open to remote opportunities
+
+🎯 Currently seeking opportunities as:
 - Data Analyst
 - BI Analyst
 - Business Analyst
 - Reporting Analyst
 
-### Connect with me
-LinkedIn:
+---
+
+## 🛠️ Tech Stack
+
+### 📊 Data Analytics
+- SQL
+- Power BI
+- Excel
+- Python
+
+### 📈 Business Intelligence
+- Dashboard Development
+- KPI Monitoring
+- Data Visualization
+- Business Reporting
+
+### 🗄️ Databases
+- SQL Server
+- MySQL
+
+---
+
+## 📂 Featured Projects
+
+📊 Sales Analysis Dashboard
+
+📈 Executive KPI Dashboard
+
+🗄️ SQL Data Analysis Projects
+
+📉 Financial Data Analysis
+
+📋 Business Performance Reporting
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced SQL
+- Python for Data Analysis
+- Data Engineering Fundamentals
+- Business Intelligence Best Practices
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn
+
 www.linkedin.com/in/alexis-lopez-data
+
+📧 Email
+
+your-email@gmail.com
+
+---
+
+⭐ "Without data, you're just another person with an opinion."
