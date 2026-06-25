@@ -1,6 +1,3 @@
-Perfecto. Con **Tableau** y tu correo profesional, se verá mucho más completo. Copia y pega esta versión:
-
-```markdown id="p9n4mu"
 <h1 align="center">🚀 Alexis Lopez</h1>
 
 <h3 align="center">📊 Data Analyst | Business Intelligence Analyst</h3>
@@ -10,110 +7,129 @@ Transforming data into actionable insights for smarter business decisions.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-Data%20Analysis-blue" />
-  <img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-yellow" />
-  <img src="https://img.shields.io/badge/Tableau-Data%20Visualization-orange" />
-  <img src="https://img.shields.io/badge/Python-Data%20Analytics-green" />
-  <img src="https://img.shields.io/badge/Excel-Advanced-success" />
-  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen" />
+<a href="https://www.linkedin.com/in/alexis-lopez-data">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:lopezalexis.data@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://public.tableau.com/app/profile/alexis.lopez7396/vizzes">
+<img src="https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-📊 Passionate about Data Analytics and Business Intelligence
+Technology enthusiast and aspiring Data Analyst passionate about transforming data into valuable business insights 📊
 
-💡 Transforming raw data into meaningful insights for business decision-making
+- 📈 Currently developing projects in SQL, Power BI, Tableau, Excel and Python.
 
-📈 Focused on KPI Tracking, Dashboard Development and Business Reporting
+- 📊 Focused on Data Analysis, Dashboard Development, KPI Tracking and Business Intelligence.
 
-🚀 Continuously learning and improving analytical and technical skills
+- 💡 Interested in using data to improve decision-making and business performance.
 
-🌎 Based in Mexico 🇲🇽 and available for remote opportunities
+- 🚀 Continuously learning new tools and best practices in Analytics and Business Intelligence.
 
-🎯 Currently seeking opportunities as:
-
-- Data Analyst
-- BI Analyst
-- Business Analyst
-- Reporting Analyst
-
----
-
-## 🛠️ Technologies & Tools
-
-### 📊 Data Analytics
-
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🗄️ Databases
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- 🎯 Seeking opportunities as:
+  - Data Analyst
+  - Business Intelligence Analyst
+  - Reporting Analyst
+  - Business Analyst
 
 ---
 
-## 📂 Featured Projects
+# 📬 Contact
+
+📧 Email:
+**lopezalexis.data@gmail.com**
+
+💼 LinkedIn:
+**www.linkedin.com/in/alexis-lopez-data**
+
+📊 Tableau Public:
+**https://public.tableau.com/app/profile/alexis.lopez7396/vizzes**
+
+🌎 Location:
+**Guadalajara, Jalisco, Mexico 🇲🇽**
+
+---
+
+# 🛠️ Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+</p>
+
+---
+
+# 📂 Featured Projects
 
 📊 Sales Analysis Dashboard
 
 📈 Executive KPI Dashboard
 
-📉 Financial Analysis using SQL
+📉 Financial Analysis with SQL
 
 📋 Business Performance Reporting
 
-🗄️ SQL Data Analysis Projects
+📊 Tableau Data Visualizations
 
-📊 Tableau Data Visualization Projects
+🗄️ SQL Data Analysis Projects
 
 ---
 
-## 📈 Professional Goals
+# 📈 GitHub Stats
 
-✅ Data Analysis
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎯 Professional Goals
+
+✅ Data Analytics
 
 ✅ Business Intelligence
 
 ✅ Dashboard Development
 
-✅ KPI Tracking
+✅ KPI Monitoring
 
 ✅ Data Visualization
 
-✅ Data Storytelling
-
 ✅ Business Reporting
 
----
-
-## 📫 Connect With Me
-
-💼 LinkedIn
-
-www.linkedin.com/in/alexis-lopez-data
-
-📧 Email
-
-lopezalexis.data@gmail.com
-
-📊 Tableau Public
-
-(https://public.tableau.com/app/profile/alexis.lopez7396/vizzes)
+✅ Data-Driven Decision Making
 
 ---
 
-```text
-🚀 Data Analyst | BI Analyst
-
-📊 SQL • Power BI • Tableau • Excel • Python
-📈 Dashboard Development • KPI Tracking • Data Visualization
-💡 Turning data into actionable business insights
-🌎 Mexico 🇲🇽 | Open to Work
-```
-
+<p align="center">
+⭐ "Without data, you're just another person with an opinion."
+</p>
