@@ -54,7 +54,7 @@ Technology enthusiast and aspiring Data Analyst passionate about transforming da
 **https://public.tableau.com/app/profile/alexis.lopez7396/vizzes**
 
 🌎 Location:
-**Guadalajara, Jalisco, Mexico 🇲🇽**
+**Salamanca, Guanajuato, Mexico 🇲🇽**
 
 ---
 
@@ -97,36 +97,6 @@ Technology enthusiast and aspiring Data Analyst passionate about transforming da
 📊 Tableau Data Visualizations
 
 🗄️ SQL Data Analysis Projects
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🎯 Professional Goals
-
-✅ Data Analytics
-
-✅ Business Intelligence
-
-✅ Dashboard Development
-
-✅ KPI Monitoring
-
-✅ Data Visualization
-
-✅ Business Reporting
-
-✅ Data-Driven Decision Making
 
 ---
 
