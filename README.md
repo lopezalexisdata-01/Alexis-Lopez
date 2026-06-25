@@ -1,4 +1,4 @@
-# Alexis-Lopez
+
 # Hi, I'm Alexis Lopez 👋
 
 ## Data Analyst | Business Intelligence
