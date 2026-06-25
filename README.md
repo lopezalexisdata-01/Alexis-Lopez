@@ -35,7 +35,8 @@ Transforming data into actionable insights for smarter business decisions.
 - Power BI
 - Excel
 - Python
-
+- Tableau
+  
 ### 📈 Business Intelligence
 - Dashboard Development
 - KPI Monitoring
@@ -79,7 +80,7 @@ www.linkedin.com/in/alexis-lopez-data
 
 📧 Email
 
-your-email@gmail.com
+lopezalexis.data@gmail.com
 
 ---
 
